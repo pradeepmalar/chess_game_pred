@@ -1,0 +1,5 @@
+# Ignore the raw data and the heavy JDK folders
+data/
+Oracle_JDK-24/
+OpenJDK-24/
+*.pgn
