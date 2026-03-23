@@ -32,7 +32,7 @@ To keep the repository lightweight, the raw dataset is **not** included in this 
 1.  **Clone the repository:**
 
     ```bash
-    git clone git@github.com:pradeepmalar/chess_game_pred.git
+    git clone https://github.com/pradeepmalar/chess_game_pred.git
     cd chess_game_pred
     ```
 
